@@ -1,4 +1,4 @@
-body{
+body {
   background-color: #ededc1;
   background-size: 70px 70px;
   background-repeat: repeat-y;
@@ -7,29 +7,28 @@ body{
   background-image: url(hatterkocka.png);
 }
 
-#cimkep{
-  float:left;  
+#cimkep {
+  float: left;
 }
 
-h1{
+h1 {
   margin: 40px 0px 100px 175px;
 }
 
-p{
+p {
   text-align: justify;
 }
 
-
-.jobbra{
+.jobbra {
   text-align: right;
 }
 
-.erdekesseg{
+.erdekesseg {
   font-size: 70%;
   padding: 7px;
   font-weight: normal;
 }
 
-li{
-  font-weight:bold;
+li {
+  font-weight: bold;
 }
